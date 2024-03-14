@@ -3,12 +3,13 @@ body {
 }
 
 .sonwman {
-  width: 10px;
-  height: 10px;
-  background-color: black;
-  border-radius: 50%;
-  margin: auto;
-  box-shadow: 30px 0,
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    border-radius: 60px 60px  0;
+    margin: auto;
+    position: relative;
+    box-shadow: 30px 0,
     15px 25px orange,
 
     1px 45px 0 -3px,
@@ -26,4 +27,4 @@ body {
     15px 150px 0 80px white, 
     15px 150px 10px 80px black, 
     0 700px 0 500px #9e5e19;
-}
+} 
